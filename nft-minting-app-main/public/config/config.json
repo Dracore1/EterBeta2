@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3b4d8c7A3308835bdf7ffF988e1270356d1f8409",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x3b4d8c7a3308835bdf7fff988e1270356d1f8409",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "EterBeta",
+  "SYMBOL": "ETB",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 2000000000000000,
+  "DISPLAY_COST": 0.002,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK":"https://testnets.opensea.io/collection/eterbeta",
+    "SHOW_BACKGROUND": true
+}
